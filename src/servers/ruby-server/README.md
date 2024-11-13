@@ -2,6 +2,8 @@
 
 This guide provides instructions to set up and run a simple Ruby server using Sinatra. This server allows you to add, update, delete, and fetch users.
 
+This server has been tested on **Ruby 3.1.0p0**, platform **macOS**.
+
 ### Prerequisites
 
 Ensure you have **Ruby** and **Bundler** installed on your machine.

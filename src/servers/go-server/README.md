@@ -2,6 +2,8 @@
 
 This guide explains how to set up and run a simple Go server using the Gin framework for basic CRUD operations on users.
 
+This server has been tested on **Go 1.23.3**, platform **MacOS**.
+
 ### Prerequisites
 
 Ensure you have **Go** installed on your system.
